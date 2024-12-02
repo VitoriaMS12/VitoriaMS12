@@ -26,7 +26,7 @@ Me chamo Vitoria Marques, tenho 16 anos e sou natural de São Paulo. Atualmente,
 
 ---
 
-### 🖥️ Linguagens e Tecnologias
+### 🖥️ Linguagens e Tecnologias que estou aprendendo 
 
 <img 
     align="left" 
