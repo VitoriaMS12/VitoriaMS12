@@ -3,8 +3,11 @@
 
 Me chamo Vitoria Marques, tenho 16 anos e sou natural de São Paulo. Atualmente, estou cursando o ensino médio com técnico em Desenvolvimento de Sistemas pela ETEC da Zona Leste.
 
+<div align="center">
+<a href=https://www.instagram.com/vick_are_vi/profilecard/?igsh=OHNkcHRvaThma2R2 align="center"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="mailto: vickmarques1208@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/VitoriaMS12"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
-<p align="left">
 <a href="https://github.com/VitoriaMS12?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
@@ -19,7 +22,7 @@ Me chamo Vitoria Marques, tenho 16 anos e sou natural de São Paulo. Atualmente,
             src="https://custom-icon-badges.demolab.com/github/followers/VitoriaMS12?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
-</p>
+</div>
 
 ---
 
