@@ -1,5 +1,5 @@
 # Vitoria Marques 👋
-**'Desenvolvedora'**
+**`Desenvolvedora`**
 
 Me chamo Vitoria Marques, tenho 16 anos e sou natural de São Paulo. Atualmente, estou cursando o ensino médio com técnico em Desenvolvimento de Sistemas pela ETEC da Zona Leste.
 
