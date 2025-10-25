@@ -1,7 +1,7 @@
 # Vitoria Marques 👋
 **`Desenvolvedora`**
 
-Me chamo Vitoria Marques, tenho 16 anos e sou natural de São Paulo. Atualmente, estou cursando o ensino médio com técnico em Desenvolvimento de Sistemas pela ETEC da Zona Leste.
+Me chamo Vitoria Marques, tenho 17 anos e sou natural de São Paulo. Atualmente, estou cursando o ensino médio com técnico em Desenvolvimento de Sistemas pela ETEC da Zona Leste.
 
 <div align="center">
 <a href=https://www.instagram.com/vick_are_vi/profilecard/?igsh=OHNkcHRvaThma2R2 align="center"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
