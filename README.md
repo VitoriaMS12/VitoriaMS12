@@ -73,4 +73,4 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-origina
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VitoriaMS12&show_icons=true&theme=ambient_gradient#gh-dark-mode-only">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitoriaMS12&hide=hack,&layout=compact&langs_count=8&icons=true&theme=ambient_gradient#gh-dark-mode-only)](https://github.com/VitoriaMS12/github-readme-stats">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitoriaMS12&hide=hack&layout=compact&langs_count=8&theme=ambient_gradient"/>
