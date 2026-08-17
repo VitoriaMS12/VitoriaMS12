@@ -1,7 +1,6 @@
-# Vitoria Marques 👋
+# Olá!!! Eu sou a Vitoria Marques 👋
 **`Desenvolvedora`**
 
-Me chamo Vitoria Marques, tenho 17 anos e sou natural de São Paulo. Atualmente, estou cursando o ensino médio com técnico em Desenvolvimento de Sistemas pela ETEC da Zona Leste.
 
 <div align="center">
 <a href=https://www.instagram.com/vick_are_vi/profilecard/?igsh=OHNkcHRvaThma2R2 align="center"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
@@ -68,9 +67,3 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-origina
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg"
 />
      </br>   
-
-
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=VitoriaMS12&show_icons=true&theme=ambient_gradient#gh-dark-mode-only">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitoriaMS12&hide=hack&layout=compact&langs_count=8&theme=ambient_gradient"/>
