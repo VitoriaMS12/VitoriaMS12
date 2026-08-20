@@ -1,4 +1,4 @@
-# Olá!!! Eu sou a Vitoria Marques 👋
+# Hello!!! I am Vitoria Marques 👋
 
 <div align="center">
 
@@ -34,7 +34,7 @@
 
 ---
 
-### 🖥️ Linguagens e Tecnologias que estou aprendendo
+### 🖥️Languages ​​and Technologies I am learning
 
 <img
  align="left"
@@ -85,7 +85,7 @@
 
 ---
 
-### ⏱️ Meu tempo de programação
+### ⏱️ My programming time
 
 <div align="center">
 
@@ -98,7 +98,7 @@
 
 ---
 
-### 📊 Linguagens mais utilizadas
+### 📊 Most commonly used languages
 
 <div align="center">
 
