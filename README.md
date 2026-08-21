@@ -90,8 +90,8 @@
 <div align="center">
 
 <img
- src="https://github-readme-stats.hackclub.dev/api/wakatime?username=65155&api_domain=hackatime.hackclub.com&theme=gotham&custom_title=Tempo%20de%20programa%C3%A7%C3%A3o&layout=compact&cache_seconds=0&langs_count=8&display_format=time"
- alt="Tempo de programação"
+ src="https://github-readme-stats.hackclub.dev/api/wakatime?username=65155&api_domain=hackatime.hackclub.com&theme=gotham&custom_title=Programming%20time&layout=compact&cache_seconds=0&langs_count=8&display_format=time"
+ alt="Programming time"
 />
 
 </div>
@@ -103,8 +103,8 @@
 <div align="center">
 
 <img
- src="https://github-readme-stats.hackclub.dev/api/wakatime?username=65155&api_domain=hackatime.hackclub.com&theme=midnight-purple&custom_title=Linguagens%20mais%20utilizadas&layout=compact&cache_seconds=0&langs_count=8&display_format=percent"
- alt="Linguagens mais utilizadas"
+ src="https://github-readme-stats.hackclub.dev/api/wakatime?username=65155&api_domain=hackatime.hackclub.com&theme=midnight-purple&custom_title=Most%20commonly%20useds%20languages&layout=compact&cache_seconds=0&langs_count=8&display_format=percent"
+ alt="Most commonly used languages"
 />
 
 </div>
